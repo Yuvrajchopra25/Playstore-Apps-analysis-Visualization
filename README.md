@@ -10,4 +10,5 @@ It's a Real time project for San Francisco based Organization. The project is ba
 
 We have been made to work in group. Team members are randomly assigned to us. My team members are Samanthula Aparanjini, Prathyusha Bestha, Jagadeep Kapuluru from USA and India.
 
-<bold>Credits:-</bold> I am thankful to HiCounselor for providing this wonderful opportunity to showcase our skills in the field of Data visualization. I am thankful to Aditya sir, Dr Amit sir and Harsh bhai for providing this opportunity and constantly resolving our doubts from time to time.
+#### Credits:-
+I am thankful to HiCounselor for providing this wonderful opportunity to showcase our skills in the field of Data visualization. I am thankful to Aditya sir, Dr Amit sir and Harsh bhai for providing this opportunity and constantly resolving our doubts from time to time.
